@@ -1,0 +1,4 @@
+2019-07-12 14:58:46,559 [ERROR] [TestMylogger.cc:test:19]请求产生错误，请纠正。
+2019-07-12 14:58:46,560 [ERROR] [TestMylogger.cc:test:20]请求产生错误，请纠正。
+2019-07-12 15:00:14,390 [ERROR] [TestMylogger.cc:test:19]请求产生错误，请纠正。
+2019-07-12 15:00:14,390 [WARN] [TestMylogger.cc:test:20]请求产生错误，请纠正。
